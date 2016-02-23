@@ -116,7 +116,7 @@ disqus:
 
 username: GR-Rui
 baseurl: /blog
-markdown: redcarpet
+markdown: kramdown
 safe: false
 highlighter: rouge
 title: 飞鸟集
