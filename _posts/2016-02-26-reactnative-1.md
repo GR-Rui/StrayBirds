@@ -9,7 +9,7 @@ comments: true
 
 *This guide assumes OS X you have and Homebrew installed. We recommend periodically running brew update && brew upgrade to keep your programs up-to-date.*
 
-1.  Install nvm, with nvm you can install multiple versions of Node.js and easily switch between them.
+1.   Install nvm, with nvm you can install multiple versions of Node.js and easily switch between them.
 	
 	Start by :
 	
@@ -72,13 +72,10 @@ To run your app on Android:
    * react-native run-android
 
 
-*   Abacus
-    * answer
-*   Bubbles
-    1.  bunk
-    2.  bupkis
-        * BELITTLER
-        * dcddd
-    3. burper
-*   Cunning
+1. Item one
+   
+   * sub item one
+   * sub item two
+   * sub item three
 
+2. Item two
