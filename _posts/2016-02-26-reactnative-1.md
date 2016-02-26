@@ -1,4 +1,9 @@
-# React Native Learning (一)
+---
+layout: post
+title: React Native Learning (一)
+category: React Native
+comments: true
+---
 
 ## get started
 
