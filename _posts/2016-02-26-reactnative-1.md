@@ -18,7 +18,7 @@ comments: true
 	brew install nvm
 	mkdir ~/.nvm
 	nano ~/.bash_profile
-	````
+	```
 	In your `.bash_profile` file (you may be using an other file, according to your shell), add the following:
 	
 	```
