@@ -72,3 +72,13 @@ To run your app on Android:
    * react-native run-android
 
 
+*   Abacus
+    * answer
+*   Bubbles
+    1.  bunk
+    2.  bupkis
+        * BELITTLER
+        * dcddd
+    3. burper
+*   Cunning
+
