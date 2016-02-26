@@ -9,7 +9,7 @@ comments: true
 
 *This guide assumes OS X you have and Homebrew installed. We recommend periodically running brew update && brew upgrade to keep your programs up-to-date.*
 
-1. Install nvm, with nvm you can install multiple versions of Node.js and easily switch between them.
+1.  Install nvm, with nvm you can install multiple versions of Node.js and easily switch between them.
 	
 	Start by :
 	
@@ -32,18 +32,18 @@ comments: true
 	echo $NVM_DIR
 	```
 	
-2. Install Node.js 4.0 or newer
+2.  Install Node.js 4.0 or newer
 
 	```
 	nvm install node && nvm alias default node
 	```
 	
-3. `brew install watchman`. We recommend installing watchman, otherwise you might hit a node file watching bug
+3.  `brew install watchman`. We recommend installing watchman, otherwise you might hit a node file watching bug
 
 	```
 	nvm install node && nvm alias default node
 	```
-4. `brew install flow`, if you want to use flow.
+4.  `brew install flow`, if you want to use flow.
 
 
 ## Initialized App
