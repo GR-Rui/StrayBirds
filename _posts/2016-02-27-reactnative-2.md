@@ -19,7 +19,7 @@ brew install git
 1. Install the latest JDK
 2. Install the Android SDK:
 
-    On Mac: `brew install android-sdk`
+    On Mac:  `brew install android-sdk`
     
 ### Define the ANDROID_HOME environment variable 
 
@@ -63,7 +63,7 @@ in the window that appears make sure you check:
     * Android Support Repository
     
 Click "Install Packages"
-![image 1](images/docs/android-package-1.png)
+![image 1](http://gr-rui.github.io/blog/images/docs/android-package-1.png)
 
 
 
