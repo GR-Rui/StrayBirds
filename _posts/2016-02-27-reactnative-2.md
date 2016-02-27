@@ -63,7 +63,14 @@ in the window that appears make sure you check:
     * Android Support Repository
     
 Click "Install Packages"
+
 ![image 1](http://gr-rui.github.io/blog/images/docs/android-package-1.png)
+
+*Note: Android SDK Build-tools version number must match with gradle build script*
+
+![image 1](http://gr-rui.github.io/blog/images/docs/android-package-2.png)
+
+![image 1](http://gr-rui.github.io/blog/images/docs/android-package-3.png)
 
 
 
