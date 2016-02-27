@@ -84,7 +84,7 @@ Click "Install Packages"
 ### Create a stock Google emulator 
 
 1. Start a new shell and run `android`; in the window that appears make sure you check:
-    * Intel x86 Atom System Image (for Android 5.1.1 - API 22)
+    * Intel x86 Atom System Image (for Android 6.0.1 - API 23)
     * Intel x86 Emulator Accelerator (HAXM installer)
 2. Click "Install Packages".
 3. Configure hardware acceleration (HAXM), otherwise the emulator is going to be slow.
