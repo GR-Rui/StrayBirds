@@ -94,6 +94,8 @@ Click "Install Packages"
    ![android-avd](http://gr-rui.github.io/blog/images/docs/android-avd.png)
 5. To bring up the developer menu press F2 
 
+*Note: It must click android avd start first, then run `react-native run-android`*
+
 
 
 
