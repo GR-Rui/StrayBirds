@@ -64,13 +64,35 @@ in the window that appears make sure you check:
     
 Click "Install Packages"
 
-![image 1](http://gr-rui.github.io/blog/images/docs/android-package-1.png)
+![android-package-1](http://gr-rui.github.io/blog/images/docs/android-package-1.png)
 
 *Note: Android SDK Build-tools version number must match with gradle build script*
 
-![image 1](http://gr-rui.github.io/blog/images/docs/android-package-2.png)
+![android-package-2](http://gr-rui.github.io/blog/images/docs/android-package-2.png)
 
-![image 1](http://gr-rui.github.io/blog/images/docs/android-package-3.png)
+![android-package-3](http://gr-rui.github.io/blog/images/docs/android-package-3.png)
+
+*Note: "Android Support Repository" in Extras has now been renamed to "Local Maven repository for Support Libraries", require installed, otherwise, got the following errors: *
+
+```
+ A problem occurred configuring project ':app'.
+ Could not resolve all dependencies for configuration ':app:_debugCompile'.
+ Could not find com.android.support:appcompat-v7:23.0.1.
+ Searched in the following locations:
+```
+
+### Create a stock Google emulator 
+
+1. Start a new shell and run `android`; in the window that appears make sure you check:
+    * Intel x86 Atom System Image (for Android 5.1.1 - API 22)
+    * Intel x86 Emulator Accelerator (HAXM installer)
+2. Click "Install Packages".
+3. Configure hardware acceleration (HAXM), otherwise the emulator is going to be slow.
+4. Create an Android Virtual Device (AVD):
+   1. Run android avd and click on Create... 
+   2. With the new AVD selected, click Start...
+   ![android-avd](http://gr-rui.github.io/blog/images/docs/android-avd.png)
+5. To bring up the developer menu press F2 
 
 
 
