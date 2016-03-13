@@ -68,7 +68,7 @@ author:
     name: GR-Rui
     email: gaoruiai521@gmail.com
     imageLink: https://en.gravatar.com/userimage/62084932/2bfd6bb07f0e0d5fc6bf1d28b60bf467?size=200
-    simpleIntro: 我是 GR-Rui, <br/><a href="http://gr-rui.github.io/blog" title="个人主页" style="color: black;">http://gr-rui.github.io/blog</a>
+    simpleIntro: 我是 GR-Rui, <br/><a href="http://gr-rui.github.io/blog" title="个人主页" style="">http://gr-rui.github.io/blog</a>
     detailIntro:
       <p>欢迎来到GR-Rui的博客, <br/>欢迎访问：<a href="http://gr-rui.github.io/blog" title="个人主页">http://gr-rui.github.io/blog</a></p>
 
